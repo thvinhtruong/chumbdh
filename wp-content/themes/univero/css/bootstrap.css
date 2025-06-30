@@ -3586,8 +3586,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("//wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("//wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.eot#iefix") format("embedded-opentype"), url("//wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("//wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("//wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+  src: url("https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.eot#iefix") format("embedded-opentype"), url("https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
 }
 /* line 25, ../sass/bootstrap/_glyphicons.scss */
 .glyphicon {

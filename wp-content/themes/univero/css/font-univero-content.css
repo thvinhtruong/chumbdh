@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'univero-icons';
-  src:  url('//wp-content/themes/univero/fonts/univero-icons.eot?5nrtr2');
-  src:  url('//wp-content/themes/univero/fonts/univero-icons.eot?5nrtr2#iefix') format('embedded-opentype'),
-    url('//wp-content/themes/univero/fonts/univero-icons.ttf?5nrtr2') format('truetype'),
-    url('//wp-content/themes/univero/fonts/univero-icons.woff?5nrtr2') format('woff'),
-    url('//wp-content/themes/univero/fonts/univero-icons.svg?5nrtr2#univero-icons') format('svg');
+  src:  url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero-icons.eot?5nrtr2');
+  src:  url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero-icons.eot?5nrtr2#iefix') format('embedded-opentype'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero-icons.ttf?5nrtr2') format('truetype'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero-icons.woff?5nrtr2') format('woff'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero-icons.svg?5nrtr2#univero-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }

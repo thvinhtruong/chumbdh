@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'univero';
-  src:  url('//wp-content/themes/univero/fonts/univero.eot?xfrqv2');
-  src:  url('//wp-content/themes/univero/fonts/univero.eot?xfrqv2#iefix') format('embedded-opentype'),
-    url('//wp-content/themes/univero/fonts/univero.ttf?xfrqv2') format('truetype'),
-    url('//wp-content/themes/univero/fonts/univero.woff?xfrqv2') format('woff'),
-    url('//wp-content/themes/univero/fonts/univero.svg?xfrqv2#univero') format('svg');
+  src:  url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero.eot?xfrqv2');
+  src:  url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero.eot?xfrqv2#iefix') format('embedded-opentype'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero.ttf?xfrqv2') format('truetype'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero.woff?xfrqv2') format('woff'),
+    url('https://thvinhtruong.github.io/chumbdh/wp-content/themes/univero/fonts/univero.svg?xfrqv2#univero') format('svg');
   font-weight: normal;
   font-style: normal;
 }
